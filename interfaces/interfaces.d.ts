@@ -26,6 +26,7 @@ interface TrendingMovies {
   title: string;
   vote_average: number;
   year: number;
+  type: string;
 }
 
 interface TrendingMovie {
